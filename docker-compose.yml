@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: nutrifit-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PROJECT_NAME=NutriFit AI Backend
+      - SECRET_KEY=nutrifit_super_secret_jwt_key_2025_college_demo_project
+      - DATABASE_URL=sqlite:///./diet_workout.db
+      - ACCESS_TOKEN_EXPIRE_MINUTES=1440
+    volumes:
+      - ./backend/diet_workout.db:/app/diet_workout.db
+      - ./backend/app/ml/models:/app/app/ml/models
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: nutrifit-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+networks:
+  default:
+    name: nutrifit-network

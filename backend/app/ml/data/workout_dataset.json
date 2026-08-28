@@ -1,0 +1,283 @@
+[
+  {
+    "archetype": "Lean Muscle Gain",
+    "name": "Hypertrophy Push-Pull-Legs Protocol",
+    "difficulty": "intermediate",
+    "duration_mins": 55,
+    "split_type": "PPL (Push / Pull / Legs)",
+    "description": "Progressive overload focused hypertrophy program targeting maximum muscular hypertrophy and strength foundation.",
+    "exercises": [
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Barbell Incline Bench Press",
+        "category": "Compound",
+        "target_muscle": "Upper Chest",
+        "sets": 4,
+        "reps": "8-10",
+        "duration_sec": 0,
+        "rest_sec": 90,
+        "notes": "Control the eccentric phase for 2-3 seconds."
+      },
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Dumbbell Overhead Shoulder Press",
+        "category": "Compound",
+        "target_muscle": "Anterior Deltoids",
+        "sets": 3,
+        "reps": "10-12",
+        "duration_sec": 0,
+        "rest_sec": 75,
+        "notes": "Keep core tight and avoid hyperextending lower back."
+      },
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Cable Tricep Rope Pushdowns",
+        "category": "Isolation",
+        "target_muscle": "Triceps Lateral Head",
+        "sets": 3,
+        "reps": "12-15",
+        "duration_sec": 0,
+        "rest_sec": 60,
+        "notes": "Flare ropes outward at the bottom of the movement."
+      },
+      {
+        "day_of_week": "Tuesday",
+        "exercise_name": "Barbell Bent-Over Row",
+        "category": "Compound",
+        "target_muscle": "Latissimus Dorsi",
+        "sets": 4,
+        "reps": "8-10",
+        "duration_sec": 0,
+        "rest_sec": 90,
+        "notes": "Maintain 45-degree hip hinge and pull to navel."
+      },
+      {
+        "day_of_week": "Tuesday",
+        "exercise_name": "Lat Pulldowns (Wide Grip)",
+        "category": "Compound",
+        "target_muscle": "Upper Lats",
+        "sets": 3,
+        "reps": "10-12",
+        "duration_sec": 0,
+        "rest_sec": 60,
+        "notes": "Drive elbows straight down and squeeze back."
+      },
+      {
+        "day_of_week": "Tuesday",
+        "exercise_name": "Incline Dumbbell Bicep Curls",
+        "category": "Isolation",
+        "target_muscle": "Biceps Long Head",
+        "sets": 3,
+        "reps": "10-12",
+        "duration_sec": 0,
+        "rest_sec": 60,
+        "notes": "Full stretch at bottom with palms facing up."
+      },
+      {
+        "day_of_week": "Wednesday",
+        "exercise_name": "Barbell Back Squats",
+        "category": "Compound",
+        "target_muscle": "Quadriceps & Glutes",
+        "sets": 4,
+        "reps": "6-8",
+        "duration_sec": 0,
+        "rest_sec": 120,
+        "notes": "Hit parallel depth with knees tracking over toes."
+      },
+      {
+        "day_of_week": "Wednesday",
+        "exercise_name": "Romanian Deadlifts (RDL)",
+        "category": "Compound",
+        "target_muscle": "Hamstrings & Glutes",
+        "sets": 3,
+        "reps": "8-10",
+        "duration_sec": 0,
+        "rest_sec": 90,
+        "notes": "Hinge at hips, keep bar close to shins."
+      },
+      {
+        "day_of_week": "Wednesday",
+        "exercise_name": "Standing Calf Raises",
+        "category": "Isolation",
+        "target_muscle": "Calves (Gastrocnemius)",
+        "sets": 4,
+        "reps": "15-20",
+        "duration_sec": 0,
+        "rest_sec": 45,
+        "notes": "Pause 2 seconds at the peak contraction."
+      }
+    ]
+  },
+  {
+    "archetype": "Fat Loss Accelerator",
+    "name": "High-Intensity Metabolic Conditioning Split",
+    "difficulty": "intermediate",
+    "duration_mins": 40,
+    "split_type": "Metabolic Upper/Lower & HIIT",
+    "description": "High energy expenditure routine combining multi-joint compound resistance with short rest intervals and cardio finishers.",
+    "exercises": [
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Goblet Squats into Overhead Press",
+        "category": "Compound",
+        "target_muscle": "Full Body",
+        "sets": 4,
+        "reps": "12-15",
+        "duration_sec": 0,
+        "rest_sec": 45,
+        "notes": "Continuous explosive movement."
+      },
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Dumbbell Renegade Rows & Pushups",
+        "category": "Compound",
+        "target_muscle": "Back & Core",
+        "sets": 3,
+        "reps": "10-12",
+        "duration_sec": 0,
+        "rest_sec": 45,
+        "notes": "Maintain stable plank position."
+      },
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Kettlebell Swings (HIIT Finisher)",
+        "category": "Cardio",
+        "target_muscle": "Posterior Chain",
+        "sets": 4,
+        "reps": "20",
+        "duration_sec": 0,
+        "rest_sec": 30,
+        "notes": "Snap hips explosively."
+      },
+      {
+        "day_of_week": "Tuesday",
+        "exercise_name": "Walking Dumbbell Lunges",
+        "category": "Compound",
+        "target_muscle": "Quads & Glutes",
+        "sets": 3,
+        "reps": "12 per leg",
+        "duration_sec": 0,
+        "rest_sec": 45,
+        "notes": "Keep chest upright."
+      },
+      {
+        "day_of_week": "Tuesday",
+        "exercise_name": "Mountain Climbers & Plank Taps",
+        "category": "Cardio",
+        "target_muscle": "Core & Cardio",
+        "sets": 3,
+        "reps": "45 sec",
+        "duration_sec": 45,
+        "rest_sec": 30,
+        "notes": "High tempo."
+      }
+    ]
+  },
+  {
+    "archetype": "Beginner / General Fitness",
+    "name": "Full Body Functional Foundation",
+    "difficulty": "beginner",
+    "duration_mins": 35,
+    "split_type": "Full Body 3x Weekly",
+    "description": "Accessible foundation program focusing on proper motor mechanics, mobility, and progressive adaptation.",
+    "exercises": [
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Bodyweight Box Squats",
+        "category": "Compound",
+        "target_muscle": "Lower Body",
+        "sets": 3,
+        "reps": "10-12",
+        "duration_sec": 0,
+        "rest_sec": 60,
+        "notes": "Focus on smooth controlled movement."
+      },
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Incline Push-ups (Hands on Bench)",
+        "category": "Compound",
+        "target_muscle": "Chest & Shoulders",
+        "sets": 3,
+        "reps": "8-10",
+        "duration_sec": 0,
+        "rest_sec": 60,
+        "notes": "Keep body in straight line."
+      },
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Deadbugs / Core Stability",
+        "category": "Mobility",
+        "target_muscle": "Core",
+        "sets": 3,
+        "reps": "10 per side",
+        "duration_sec": 0,
+        "rest_sec": 45,
+        "notes": "Press lower back firmly into the floor."
+      }
+    ]
+  },
+  {
+    "archetype": "Strength & Power Builder",
+    "name": "5x5 Power & Neural Activation",
+    "difficulty": "advanced",
+    "duration_mins": 60,
+    "split_type": "Upper / Lower Heavy Split",
+    "description": "Heavy strength protocol prioritizing neurological adaptations, mechanical tension, and maximal force production.",
+    "exercises": [
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Conventional Barbell Deadlift",
+        "category": "Compound",
+        "target_muscle": "Full Posterior Chain",
+        "sets": 5,
+        "reps": "5",
+        "duration_sec": 0,
+        "rest_sec": 180,
+        "notes": "Brace core hard and drive floor away."
+      },
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Barbell Overhead Press (OHP)",
+        "category": "Compound",
+        "target_muscle": "Shoulders & Triceps",
+        "sets": 5,
+        "reps": "5",
+        "duration_sec": 0,
+        "rest_sec": 120,
+        "notes": "Lock out overhead with glutes squeezed."
+      }
+    ]
+  },
+  {
+    "archetype": "Endurance Athlete",
+    "name": "Aerobic Capacity & Resistance Endurance",
+    "difficulty": "intermediate",
+    "duration_mins": 50,
+    "split_type": "Aerobic Endurance & High-Rep Circuit",
+    "description": "Optimized for mitochondrial density, VO2 max endurance, and muscular stamina.",
+    "exercises": [
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "Interval Tempo Run / Row",
+        "category": "Cardio",
+        "target_muscle": "Cardiovascular System",
+        "sets": 5,
+        "reps": "3 mins tempo / 1 min easy",
+        "duration_sec": 1200,
+        "rest_sec": 60,
+        "notes": "Maintain 80-85% max heart rate."
+      },
+      {
+        "day_of_week": "Monday",
+        "exercise_name": "High-Rep Bodyweight Circuit",
+        "category": "Compound",
+        "target_muscle": "Muscular Endurance",
+        "sets": 3,
+        "reps": "20 reps per move",
+        "duration_sec": 0,
+        "rest_sec": 45,
+        "notes": "Bodyweight squats, pushups, lunges."
+      }
+    ]
+  }
+]
